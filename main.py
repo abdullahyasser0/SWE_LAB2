@@ -12,9 +12,7 @@ def submit():
     return render_template('result.html',name=name,email=email)
 
 
-@app.route('/return',methods=['POST'])
-def re():
-    return render_template('form.html')
+
 
 
 
