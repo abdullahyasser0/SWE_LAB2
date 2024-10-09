@@ -3,6 +3,28 @@
     margin: 10px;
 }
 
+
+body{
+    text-align: center;
+}
+
+
 h1{
     color:red;
+}
+
+input{
+    width: 500px; 
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+
+
+}
+
+button{
+
+    width: 500px; padding: 10px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;
 }
